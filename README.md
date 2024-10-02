@@ -5,6 +5,5 @@ seu nome
 sua cidade
 sua idade 
 seu CPF
-
 Em cada um desses abrimos um <h2> para ficarem mais grande as letras e uma tambem uma DIV cada para conseguir entender melhor
 A pricipal  dificuldade foi fazer o botao de enviar
